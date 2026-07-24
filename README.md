@@ -1,55 +1,27 @@
 ## Hi there, I'm Vrinda Surati! 👋
 
+I'm a **Data Science and Economics** student at **Rutgers University** with a passion for leveraging data to solve complex problems and inform decision-making. I enjoy exploring the intersection of **machine learning, artificial intelligence, statistics, and economics** to uncover insights and build impactful solutions.
 
- 👩‍💻 About Me
+Through my coursework, internships, and hands-on projects, I've gained experience working across the entire data science pipeline—from data cleaning and visualization to predictive modeling and model evaluation. I'm especially interested in applying AI and machine learning to real-world challenges in industries like **healthcare, public policy, and financial services**.
 
-I'm a Data Science and Economics student at Rutgers University with a passion for leveraging data to solve complex problems and inform decision-making. I enjoy exploring the intersection of machine learning, artificial intelligence, statistics, and economics to uncover insights and build impactful solutions.
+I'm always looking for opportunities to learn new technologies, collaborate on exciting projects, and continue growing as a data scientist.
 
-Through my coursework, internships, and hands-on projects, I've gained experience working with data throughout the entire analytics pipeline: from data cleaning and visualization to predictive modeling and model evaluation. I'm especially interested in applying AI and machine learning to real-world challenges in industries like healthcare, public policy, and financial services!
+### 🛠️ Tech Stack
 
-I'm always looking for opportunities to learn new technologies, collaborate on exciting projects, and continue growing my skills!
+**Languages:** Python, SQL, R, Java, JavaScript, HTML, CSS
 
- 🛠️ Tech Stack
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 
- Languages
-- Python
-- SQL
-- R
-- Java
-- JavaScript
-- HTML
-- CSS
+**Tools:** Git, GitHub, Jupyter Notebook, Tableau, Power BI, Excel, VS Code
 
-  Libraries & Frameworks
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Matplotlib
-- Seaborn
+### 🌱 Currently Learning
 
-  Tools
-- Git & GitHub
-- Jupyter Notebook
-- Tableau
-- Power BI
-- Excel
-- VS Code
+Deep Learning • Large Language Models (LLMs) • Generative AI • MLOps • Cloud Computing for Machine Learning
 
+### 📫 Connect With Me
 
-  🌱 Currently Learning
-
-- Deep Learning
-- Large Language Models (LLMs)
-- Generative AI
-- MLOps
-- Cloud Computing for Machine Learning
-
-
-  📫 Connect With Me!
-
-- LinkedIn: https://www.linkedin.com/in/vrindasurati16
-- Email: surativrinda@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vrindasurati16
+- **Email:** surativrinda@gmail.com
 <!--
 **vrinda-162/vrinda-162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
