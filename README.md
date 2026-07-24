@@ -1,7 +1,7 @@
 ## Hi there, I'm Vrinda Surati! 👋
 
 
-# 👩‍💻 About Me
+ 👩‍💻 About Me
 
 I'm a Data Science and Economics student at Rutgers University with a passion for leveraging data to solve complex problems and inform decision-making. I enjoy exploring the intersection of machine learning, artificial intelligence, statistics, and economics to uncover insights and build impactful solutions.
 
@@ -9,9 +9,9 @@ Through my coursework, internships, and hands-on projects, I've gained experienc
 
 I'm always looking for opportunities to learn new technologies, collaborate on exciting projects, and continue growing my skills!
 
-# 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
-# Languages
+ Languages
 - Python
 - SQL
 - R
@@ -20,7 +20,7 @@ I'm always looking for opportunities to learn new technologies, collaborate on e
 - HTML
 - CSS
 
-# Libraries & Frameworks
+  Libraries & Frameworks
 - Pandas
 - NumPy
 - Scikit-learn
@@ -28,7 +28,7 @@ I'm always looking for opportunities to learn new technologies, collaborate on e
 - Matplotlib
 - Seaborn
 
-# Tools
+  Tools
 - Git & GitHub
 - Jupyter Notebook
 - Tableau
@@ -37,7 +37,7 @@ I'm always looking for opportunities to learn new technologies, collaborate on e
 - VS Code
 
 
-# 🌱 Currently Learning
+  🌱 Currently Learning
 
 - Deep Learning
 - Large Language Models (LLMs)
@@ -46,7 +46,7 @@ I'm always looking for opportunities to learn new technologies, collaborate on e
 - Cloud Computing for Machine Learning
 
 
-# 📫 Connect With Me!
+  📫 Connect With Me!
 
 - LinkedIn: https://www.linkedin.com/in/vrindasurati16
 - Email: surativrinda@gmail.com
