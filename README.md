@@ -1,9 +1,5 @@
 ## Hi there, I'm Vrinda Surati! 👋
 
-🎓 Data Science & Economics Student at Rutgers University  
-📊 Passionate about Machine Learning, Artificial Intelligence, and Data Analytics  
-💡 Using data to solve meaningful problems and create real-world impact
-
 ---
 
 ## 👩‍💻 About Me
