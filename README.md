@@ -8,11 +8,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a Data Science and Economics student at Rutgers University with a passion for leveraging data to solve complex problems and drive informed decision-making. I enjoy exploring the intersection of machine learning, artificial intelligence, statistics, and economics to uncover insights and build impactful solutions.
+I'm a Data Science and Economics student at Rutgers University with a passion for leveraging data to solve complex problems and inform decision-making. I enjoy exploring the intersection of machine learning, artificial intelligence, statistics, and economics to uncover insights and build impactful solutions.
 
-Through coursework, research, and hands-on projects, I've gained experience working with data throughout the entire analytics pipeline- from data cleaning and visualization to predictive modeling and model evaluation. I'm especially interested in applying AI and machine learning to real-world challenges in areas like healthcare, public policy, and business analytics.
+Through my coursework, internships, and hands-on projects, I've gained experience working with data throughout the entire analytics pipeline: from data cleaning and visualization to predictive modeling and model evaluation. I'm especially interested in applying AI and machine learning to real-world challenges in industries like healthcare, public policy, and financial services!
 
-I'm always looking for opportunities to learn new technologies, collaborate on exciting projects, and continue growing as a data scientist.
+I'm always looking for opportunities to learn new technologies, collaborate on exciting projects, and continue growing my skills!
 
 ---
 
